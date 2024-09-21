@@ -1,0 +1,19 @@
+{
+  "identifier": "passkeys.darkmint",
+  "name": "Dark Mint",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0",
+  "description": "Dark Mint theme for Standard Notes",
+  "url": "",
+  "download_url": "",
+  "marketing_url": "https://github.com/PASSK3YS/dark-mint-theme",
+  "latest_url": "",
+  "thumbnail_url": "",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#1a2d3c",
+    "foreground_color": "#1f3649",
+    "border_color": "#3D465D"
+  }
+}
