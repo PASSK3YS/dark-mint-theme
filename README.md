@@ -1,5 +1,5 @@
-# dark-mint-theme
-Dark Mint theme for Standard Notes
+# Dark Mint
+Dark Mint theme for Standard Notes.
 
 Install link:
 ```
